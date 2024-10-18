@@ -8,8 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Fluent FLyer.unity
+    guid: 7872c03758b834f1a82db4fa06409ff3
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 14008c0525469b3d19142d4fd6fce441,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 243c8077f01b305029a4443d8a36e0ee,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 51679fbd583c44d70b043510c8a3a6e7,
       type: 2}
